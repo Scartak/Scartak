@@ -1,4 +1,6 @@
-### Hi there 👋
+yeah bro i do some stuff here and there.
+
+Probably gonna start using this site more cause of uni.
 
 <!--
 **Scartak/Scartak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
