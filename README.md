@@ -1,6 +1,6 @@
-yeah bro i do some stuff here and there.
+Currently pursuing Bachelor of Engineering(Honours) in Computer Engineering, and Bachelor of Science in Physics at University of Auckland.
 
-Probably gonna start using this site more cause of uni.
+Trying to teach myself data structures and algorithms during the semester break.
 
 <!--
 **Scartak/Scartak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
